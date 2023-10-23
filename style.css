@@ -1,0 +1,21 @@
+body {
+    background-color:palevioletred;
+}
+
+.title {
+    text-align: center;
+}
+
+.facts {
+    display: flex;
+    flex-direction: row;
+}
+
+.third-section {
+    text-align: center;
+}
+
+.last-section {
+    display: flex;
+    flex-direction: row;
+}
